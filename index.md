@@ -1,38 +1,38 @@
-## Chào mừng đến trang chủ của Kỵ sĩ rồng 👤
-### Mô tả: Vui lòng đánh dấu trang này để theo dõi cập nhật các dự án của tôi💖
+# Chào mừng đến trang chủ của Kỵ sĩ rồng 👤
+## Mô tả: Vui lòng đánh dấu trang này để theo dõi cập nhật các dự án của tôi💖
 
-You can use the [editor on GitHub](https://github.com/v-danh/dragonknight.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể dùng [chỉnh sửa trên GitHub](https://github.com/v-danh/dragonknight.github.io/edit/gh-pages/index.md) để duy trì và xem trước nội dung cho trang web của bạn trong các tệp <b>Markdown<b>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bất cứ khi nào bạn cam kết với kho lưu trữ này, Trang GitHub sẽ chạy [Jekyll](https://jekyllrb.com/) để xây dựng lại các trang trong trang web của bạn, từ nội dung trong các tệp <b>Markdown<b>.
 
-### Markdown
+### Cột mốc quan trọng trên Github
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Các dự án được lưu trữ trên Github ...
 
 ```markdown
-Syntax highlighted code block
+Cú pháp đánh dấu khối mã
 
-# Header 1
-## Header 2
-### Header 3
+# Tiêu đề 1
+## Tiêu đề 2
+### Tiêu đề 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Đánh số
+2. Danh sách
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Để biết thêm chi tiết xem [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Chủ đề Jekyll
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v-danh/dragonknight.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Hỗ trợ hoặc Liên hệ
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bạn gặp sự cố với Trang. Kiểm tra [tài liệu](https://docs.github.com/categories/github-pages-basics/) hoặc [liên hệ hỗ trợ](https://support.github.com/contact) và chúng tôi sẽ giúp bạn sắp xếp nó.
